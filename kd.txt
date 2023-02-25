@@ -3,3 +3,4 @@ i have updated my file on github
 clone repo
 new kartik
 enter my game
+markdown files are the most crucial one to study
